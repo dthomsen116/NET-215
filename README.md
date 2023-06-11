@@ -10,37 +10,33 @@ assignment may, for the purpose of assessing this assignment:
 
 ## Course Information
 
-### Course Name: _Advanced Python Programming_
-### Course Number: _CSI-260_
-### Professor: _Sarah Pettitt_
-### Semester: _Spring 2023_
+### Course Name: _Web and Applications Security_
+### Course Number: _SEC-260_
+### Professor: _Joe Eastman_
+### Semester: _Spring 2022_
 ### Student Name: _David Thomsen_
-### Group Work Done with: [Matt Compton](https://github.com/SomethingGeneric), [Abijah Buttendorf](https://github.com/T20A026), & [Sean Sawyers-Abbott](https://github.com/SeanSawyers)
+
+
+## REPO Description
+
+This course repository provides the work completed and assignments given during _Web and Applications Security_, taught by Professor Eastman. It includes essential information about the course, such as its description, objectives, and required materials. Please read through this document to familiarize yourself with the course content and expectations.
 
 ## Course Description
 
-This course repository provides the work completed and assignments given during _Advanced Python Programming_, taught by Professor Pettitt. It includes essential information about the course, such as its description, objectives, and required materials. Please read through this document to familiarize yourself with the course content and expectations.
-
-## Course Description
-
-This course continues the material from Python Programming beginning with lists and basic
-structures. Then, the focus moves toward Object-Oriented Programming (OOP) that includes topics
-such as objects, classes, encapsulation, abstraction modularity, memory management, inheritance,
-and polymorphism. Advanced Python language features like iterators, generators, lambdas, and
-comprehensions are also covered.
+Students will be introduced to the foundational technologies and security principles of web-based applications. This includes communication protocols, data formatting standards, client and server-side scripting, databases programming, and interactions within a tiered-application architecture. Students will gain a perspective on the importance of web applications in the modern enterprise with a focus on security threats, common vulnerabilities, and the practical application of security controls to mitigate those risks.
 
 
 ## CLOs
 
-By the end of this course, students should be able to:
 
-- Analyze, design, implement, and test moderately complex problems
-- Implement solutions using the Object Oriented Programming Paradigm (OOP):
-> - encapsulation
-> - polymorphism
-> - inheritance
-> - abstraction
-> - modularity
-- Utilize data types to model complex data structures (e.g., list, dictionary, class)
-- Develop programs according to a coding standard
-- Handle code errors and exceptions adequately
+**Upon completion of the course, students will be able to:**
+
+- Describe the components of a web system and the interaction of those components 
+- Construct simple applications as prototypes or samples of larger systems
+- Learn where the evidence of attacks can be collected
+- Analyze connectivity and performance issues in web systems, isolate issues to component level, and select appropriate measures for resolution
+- Describe and analyze security issues in web systems 
+- Describe and analyze the networking and web protocols involved in web systems
+- Analyze and design web system configurations in relation to the network infrastructure
+- Describe and discuss the critical role that web systems play in an organization, both internally and externally
+
